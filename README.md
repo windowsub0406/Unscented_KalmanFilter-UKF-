@@ -1,4 +1,4 @@
-# Unscented Kalman Filter Project Starter Code  
+# Unscented Kalman Filter Project
 
 <p align="center">
     <img src="./image/ukf.gif" width="480" alt="main_image" /><br>
